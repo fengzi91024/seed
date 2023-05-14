@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fengzi91024.github.io/seed/blog</id>
     <title>My Site Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-05-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fengzi91024.github.io/seed/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://fengzi91024.github.io/seed/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[我的简历]]></title>
+        <id>https://fengzi91024.github.io/seed/blog/2023/05/14/my-blog-post</id>
+        <link href="https://fengzi91024.github.io/seed/blog/2023/05/14/my-blog-post"/>
+        <updated>2023-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我的简历]]></summary>
+        <content type="html"><![CDATA[<ul><li>姓名：黄义林</li><li>学历：大专</li><li>手机：19805923478</li><li>邮箱：<a href="mailto:180584517@qq.com" target="_blank" rel="noopener noreferrer">180584517@qq.com</a></li><li>博客：<a href="https://fengzi91024.github.io/seed/" target="_blank" rel="noopener noreferrer">https://fengzi91024.github.io/seed/</a></li><li>Github：<a href="http://github.com/fengzi91024" target="_blank" rel="noopener noreferrer">https://github.com/fengzi91024/</a></li></ul><h1>教育背景</h1><ul><li>学位：泉州经贸学院  信息安全技术与应用</li><li>时间：2021年 - 2023年</li></ul><h1>技能清单</h1><ul><li>HTML/CSS/JavaScript等前端技术</li><li>node.js</li><li>Ajax&amp;rest</li><li>Git 版本管理工具 </li></ul><h1>项目经验</h1><h2 class="anchor anchorWithStickyNavbar_LWe7" id="项目1">项目1<a href="#项目1" class="hash-link" aria-label="项目1的直接链接" title="项目1的直接链接">​</a></h2><ul><li>项目描述：学习react 搭建静态网站</li><li>项目链接：<a href="http://fengzi91024.github.io/seed/" target="_blank" rel="noopener noreferrer">fengzi91024.github.io/seed/</a></li></ul><h1>荣誉证书</h1><ul><li>荣誉1：专项技能等级证书（办公软件应用操作）</li><li>荣誉2：荣誉描述</li></ul><h1>自我评价</h1><ul><li><p>自我评价：在我的个人生活和工作中，我一直以品性优良自居。我相信，作为一个道德高尚、有品德的人是至关重要的，因为这将有助于建立信任和良好的人际关系，进而使自己在职场和生活中更加成功和有影响力</p></li><li><p>尊重他人：我尊重他人的意见和感受，在与他人交往时，始终保持礼貌、善良和尊重，不会对他人进行人身攻击或歧视。</p></li><li><p>慷慨乐于助人：我愿意为他人提供帮助和支持，在遇到需要帮助的人或事情时，我会尽自己所能去提供帮助和支持，从而帮助他人克服困难和挑战。</p></li><li><p>总之，我相信我的品性优良是我成功的基石，并在我的个人和职业生涯中发挥了重要的作用。我将继续坚持我的道德和品德原则，努力成为一个更好的人，并对我的团队和组织做出积极的贡献。</p></li></ul>]]></content>
+        <author>
+            <name>Huang Yilin</name>
+            <uri>https://github.com/fenzi91024</uri>
+        </author>
+        <category label="hello" term="hello"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://fengzi91024.github.io/seed/blog/welcome</id>
